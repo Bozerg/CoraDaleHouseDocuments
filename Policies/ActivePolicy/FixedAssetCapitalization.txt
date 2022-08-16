@@ -1,0 +1,3 @@
+Fixed Asset Capitalization Policy
+
+All expenditures qualifying as a capital asset that are equal to or greater than $1000 are to be capitalized and depreciated over their estimated useful lives using the straight-line method of accounting.
