@@ -65,3 +65,4 @@ February 2022
 
 September 2022
 	Removed redundant policy on appointing board members
+	Update bylaws to point to existing non-discrimination policy rather than enumerating it explicitly.
