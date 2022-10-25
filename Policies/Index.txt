@@ -1,11 +1,11 @@
 Annotated index to Elkhart County Clubhouse Policies and Bylaws
 
-International Standards for Clubhouse Programs – A primary reference
+International Standards for Clubhouse Programs - A primary reference
 
-July 2010: 
+July 2010:
 	Adopted Bylaws
 
-May 2012: 
+May 2012
 	Adopted Board Member Leave of Absence Policy 
 	Adopted Above-Budget Spending Policy.
 
@@ -64,10 +64,11 @@ February 2022
 	Adopted Medical Cost Sharing Policy
 
 September 2022
-	Removed redundant policy on appointing board members
-	Update bylaws to point to existing non-discrimination policy rather than enumerating it explicitly.
+	Removed redundant Board Member Appointment Policy 2
+	Amended Bylaws to point to existing non-discrimination policy rather than enumerating it explicitly.
 
 October 2022
 	Adopted Policy on Raising Concerns about Executive Director Conduct
 	Adopted Policy on Grievances to the Board
 	Removed Policy for Requesting Board/Director Consultation
+	Removed Emergency Committee Policy
