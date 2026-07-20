@@ -40,7 +40,7 @@ Bylaws
 		
 		i. If at least half of the elected board members feel the board is at an impasse that jeopardizes the future of the ECC, they may avail themselves of a safety net provision. 
 
-		ii. When this provision is invoked, all board members shall immediately cease to serve, and a committee of three outside people (Andy Wilson, Jack Yatsko, and a third person of Andy and Jack’s choosing) shall be empowered to appoint replacement board members to serve out the remainder of any and all dismissed board members' terms within these bylaws. 
+		ii. When this provision is invoked, all board members shall immediately cease to serve, and a committee of three outside people (Andy Wilson, Rich Meyer, and a third person of Andy and Rich’s choosing) shall be empowered to appoint replacement board members to serve out the remainder of any and all dismissed board members' terms within these bylaws. 
 
 		iii. These new board appointees may include previous board members, appointed to complete the terms to which they had previously been elected. 
 
