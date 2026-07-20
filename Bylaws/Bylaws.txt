@@ -28,8 +28,9 @@ Bylaws
 
 					a. A decision to remove from office or sanction the executive director
 					b. A decision to remove from office or sanction a board member
-					c. A resolution to change the composition of the committee empowered to act in extreme measures, outlined in 2.D. below.
-					d. A decision to amend the bylaws (see later section on bylaws amendment)
+					c. A decision to remove a Board Member Emeritus from that status
+					d. A resolution to change the composition of the committee empowered to act in extreme measures, outlined in 2.D. below.
+					e. A decision to amend the bylaws (see later section on bylaws amendment)
 
 				Although these decisions do not require consensus, the board should endeavor to fashion a process of careful listening and discernment, so that even these decisions reflect values of respect and inclusive decision-making.
 
@@ -80,6 +81,17 @@ Bylaws
 
 	G. Officers:
 		The board will function in an inclusive circle model. However, pro forma officers may be appointed as needed for the limited purpose of meeting contractual or other outside obligations.
+
+	H. Board Members Emeritus
+		The board as a whole may appoint a former board member as a Board Member Emeritus, in recognition of their past service and continuing connection to the ECC. Board Member Emeritus status does not count toward the board's composition, quorum, or term limits described in section 2.A. above.
+
+		i. A Board Member Emeritus may choose to participate in board meetings and deliberations as part of the circle described in section 2.G. above, and shall be notified of meetings and agenda items in the same manner as board members.
+
+		ii. A Board Member Emeritus shall have no vote in any board matter requiring a vote, including those matters exempted from consensus under section 2.B.v. above.
+
+		iii. A Board Member Emeritus may be removed from that status by the board, as provided in section 2.B.v.c. above.
+
+		iv. Board Members Emeritus are not prohibited from subsequently serving as a board member. A person may simultaneously hold Board Member Emeritus status and serve as a board member; while so serving, they shall function as a board member rather than as a Board Member Emeritus. Upon ceasing to serve as a board member, such a person shall resume their status as a Board Member Emeritus.
 
 3. Executive Director
 	The board shall appoint an Executive Director and delegate to him/her the responsibilities of the day-to-day operations of the ECC. 
